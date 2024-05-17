@@ -1,7 +1,7 @@
 --->
-Ben Ogehan, github profilimde yaptığım projeleri paylaşmaktayım ve sizlere yardımcı olmak üstüme vazifedir
-projelerim açık kaynak kodludur ve dilediğiniz şekilde kullanabilirsiniz.
-turkhackteam.org
+Ben Ogehan, Grafik Tasarımcı ve Web Developer'ım Projelerimi Geliştirmekte Ve Sizlerle Paylaşmaktayım.
+Halihazırda PHP, C# , PYTHON C++ , jS & Riders Kodlama Dillerine Hakimim.
+Unutmayınki ; Sadece sınırlarını aşmanın riskini alanlar ne kadar ileri gidebildiklerini görürler.
 --->
 ------------------------------------------------------
 - 👋  I am a website programmer and graphic designer.
